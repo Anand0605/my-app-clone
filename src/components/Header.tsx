@@ -8,7 +8,7 @@ const NavbarPage = () => {
         <div className="flex gap-2">
           <Link href="/performance">Performance</Link> 
 
-          <Link href="/reliability">Reliability</Link> 
+          {/* <Link href="/reliability">Reliability</Link>  */}
 
         </div>
       </nav>
